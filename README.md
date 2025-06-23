@@ -7,7 +7,11 @@
 
 ![flask](https://github.com/user-attachments/assets/00a348a0-a78e-4661-96f9-596fcea6ad5c)
 
-# Flask-Calculator-App-Dockerized
+# 🧮 Flask-Calculator-App-Dockerized
+Perform +, −, ×, ÷ operations <br>
+Flask web interface <br>
+Docker and Docker Compose setup <br>
+
 ![flask](https://github.com/user-attachments/assets/c906786f-8bfb-47d4-ab58-ca43a8698e98)
 Structure
 ```
